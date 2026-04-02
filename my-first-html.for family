@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome message</title>
+</head>
+<body>
+
+  <h1>Welcome</h1>
+  <p>my family's and friends </p>
+
+  <a href="https://google.com">Go to Google</a>
+
+</body>
+</html>
